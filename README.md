@@ -36,6 +36,7 @@ I want to help you understand how I am most easily motivated and communicated wi
 - I best accept change with prior conditioning, and explanation of why it’s warranted
 
 ## Ideal work environment
+- Problems to solve, not solutions to implement
 - A small, quality-oriented team where I can develop a sense of belonging
 - A wide variety of people I can develop long-standing personal relationships with
 - A stable and predictable environment, with time to change and time to perform up to my high standards
