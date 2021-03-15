@@ -61,4 +61,4 @@ I want to help you understand how I am most easily motivated and communicated wi
 
 ### Inspiration
 - [Allison Shaw](https://github.com/allisonacs/readme)
-- My [TTI assessment](https://drive.google.com/drive/folders/0B9J6-hcb8zlNbFQ3SHA4UnAwbDQ?usp=sharing) results
+- My [TTI assessment](https://drive.google.com/drive/folders/0B9J6-hcb8zlNbFQ3SHA4UnAwbDQ?usp=sharing) results from [Telos Coaches](https://www.teloscoaches.com/)
